@@ -1,6 +1,6 @@
 {
   "name": "com.windmaster.eventsystem",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "displayName": "Event System",
   "description": "A Package for implementing an Event System.\n\nBased and inspired on this video: https://www.youtube.com/watch?v=raQ3iHhE_Kk",
   "unity": "2022.3",

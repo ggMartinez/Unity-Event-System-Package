@@ -1,0 +1,16 @@
+{
+    "name": "WindMaster.eventsystem.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:10a2723654ac7454bb37a94697561fc1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
