@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 // ----------------------------------------------------------------------------
 // Unite 2017 - Game Architecture with Scriptable Objects
 // 
@@ -23,4 +24,5 @@ public class EventEditor : Editor
             e.Raise();
     }
 }
+#endif
 
